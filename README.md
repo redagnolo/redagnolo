@@ -12,7 +12,7 @@ I'm an Analysis and Systems Development (ADS) student at FIAP, passionate about 
 ## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github" />
 </p>
 
 ##
