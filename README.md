@@ -14,3 +14,14 @@ I'm an Analysis and Systems Development (ADS) student at FIAP, passionate about 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
+
+##
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/redagnolo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/renatoo.rod/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
