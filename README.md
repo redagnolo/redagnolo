@@ -4,4 +4,4 @@ I'm an Analysis and Systems Development (ADS) student at FIAP, passionate about 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redagnolo&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=redagnolo&show_icons=true)
