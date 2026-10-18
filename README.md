@@ -1,6 +1,6 @@
 <img align="right" width="350" src="https://i.pinimg.com/originals/a4/df/e7/a4dfe739e0da99cb3c78a3c42878d4ea.gif" alt="Aesthetic Coding GIF" />
 
-# Hi there, I'm Renato! 👋
+# Hi there, I'm Renato!
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=false&vCenter=false&width=435&lines=Aspiring+Software+Developer;ADS+Student+%40+FIAP;Passionate+about+technology!" alt="Typing SVG" /></a>
 
