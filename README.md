@@ -6,10 +6,11 @@
       <br><br>
       <em>Focused on building software, learning core computing principles, and applying technology to real-world business challenges.</em>
       <br><br>
-      <h3> About me</h3>
+      <h3>About me</h3>
       <ul>
         <li> Currently developing the <strong>FIAP Challenge solution project</strong> with my team.</li>
         <li> Focused on <strong>Full-Stack Development, Data Structures, and Software Architecture</strong>.</li>
+        <li> Enthusiast of mechanical keyboards and clean code.</li>
         <li> How to reach me: <strong>renato.dagnolo@gmail.com</strong></li>
       </ul>
       <br>
@@ -19,7 +20,7 @@
       </div>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://media1.tenor.com/m/y8_GcVWBbFoAAAAC/squitle-arroz.gif" width="100%" alt="Squirtle comendo arroz" style="border-radius: 8px; max-width: 350px;"/>
+      <img src="https://media.tenor.com/UI9IkhLQ3jwAAAAi/pokemon.gif" width="100%" alt="Pokemon GIF" style="border-radius: 8px; max-width: 320px;"/>
     </td>
   </tr>
 </table>
@@ -28,14 +29,14 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,postgres,git,github,vscode,idea" alt="Technologies" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 <p align="left">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=redagnolo&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=161b22&hide_border=true&border_radius=12" alt="GitHub Stats" />
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=redagnolo&layout=compact&langs_count=6&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=161b22&hide_border=true&border_radius=12" alt="Top Languages" />
