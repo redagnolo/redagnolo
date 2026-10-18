@@ -21,15 +21,12 @@
 -  Focused on **Full-Stack Development, Data Structures, and Software Architecture**.
 -  How to reach me: **renato.dagnolo@gmail.com**
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,postgres,git,github,vscode,idea" alt="Technologies" />
 </p>
 
 ###  Connect with me
-<a href="https://www.linkedin.com/in/redagnolo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/redagnolo" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/redagnolo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/redagnolo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
