@@ -20,7 +20,7 @@
       </div>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://media.tenor.com/9PFhK1Tcie8AAAAi/darts.gif" width="100%" alt="Darts GIF" style="border-radius: 8px; max-width: 320px;"/>
+      <img src="https://media.tenor.com/y6ko93COrOQAAAAj/reshiram-pokemon-reshiram.gif" width="100%" alt="Darts GIF" style="border-radius: 8px; max-width: 320px;"/>
     </td>
   </tr>
 </table>
