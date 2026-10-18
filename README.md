@@ -1,4 +1,4 @@
-<img align="right" width="350" src="https://i.pinimg.com/originals/a4/df/e7/a4dfe739e0da99cb3c78a3c42878d4ea.gif" alt="Aesthetic Coding GIF" />
+<img align="right" width="350" src="https://media1.tenor.com/m/y8_GcVWBbFoAAAAC/squitle-arroz.gif" alt="Coding GIF" />
 
 # Hi there, I'm Renato!
 
@@ -21,14 +21,14 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,postgres,git,github,vscode,idea" alt="Technologies" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 <p align="left">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=redagnolo&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=161b22&hide_border=true&border_radius=12" alt="GitHub Stats" />
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=redagnolo&layout=compact&langs_count=6&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=161b22&hide_border=true&border_radius=12" alt="Top Languages" />
