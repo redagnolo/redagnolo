@@ -1,10 +1,10 @@
 <img align="right" width="350" src="https://media.tenor.com/2YrU3l7yFxMAAAAC/surprised-pikachu-surpised-pikachu-face.gif" alt="Pikachu Surpreso" />
 
-# Welcome! 👋
+# Welcome!
 
 ### I'm Renato! Let me present a little about myself :D
 
-Aspiring Software Developer | Analysis and Systems Development student at FIAP
+Analysis and Systems Development (ADS) student at FIAP, passionate about technology and software development. Focused on building software, learning core computing principles, and applying technology to real-world business challenges.
 
 ### About me
 <a href="https://www.linkedin.com/in/redagnolo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,9 +12,9 @@ Aspiring Software Developer | Analysis and Systems Development student at FIAP
 
 <br>
 
-- 💻 Currently working on the FIAP Challenge solution project.
-- 🚀 Focused on Full-Stack Development and Software Architecture.
-- 📫 Contact: renato.dagnolo@gmail.com
+-  Currently working on the FIAP Challenge solution project.
+-  Focused on Full-Stack Development and Software Architecture.
+-  Contact: renato.dagnolo@gmail.com
 
 <br clear="both">
 
