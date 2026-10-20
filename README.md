@@ -10,7 +10,7 @@
         <em>Focused on building software, learning core computing principles, and applying technology to real-world business challenges.</em>
       </td>
       <td valign="center" align="center" width="40%">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlrenp3eXo2ZHo5ZGV5ZTBwYTNtYmJ3M3gyZWZwYng2cHBhMTV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" width="280" alt="Hacker Cat GIF" style="border-radius: 8px;" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V0djFrajJmemZueWs1dDRpeHpmbDN0Zjlia3I1d250dDM0MnVreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Od0QRnzwRBYmDU3eEO/giphy.gif" width="280" alt="Hacker Cat GIF" style="border-radius: 8px;" />
       </td>
     </tr>
   </table>
