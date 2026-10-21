@@ -3,8 +3,8 @@
     <tr>
       <td valign="top" width="60%">
         <h1>Hi there, I'm Renato! </h1>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C9D1D9&center=false&vCenter=false&width=435&lines=Aspiring+Software+Developer;ADS+Student+%40+FIAP;Passionate+about+technology!" alt="Typing SVG" />
+        <a href="https://git.io/typing-svg">     
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C9D1D9&center=false&vCenter=false&width=435&lines=Software+Development+Student;Java+%7C+Python+%7C+Web+Development;Software+Engineering+Enthusiast" alt="Typing SVG" />
         </a>
         <br><br>
         <em>Focused on building software, learning core computing principles, and applying technology to real-world business challenges.</em>
