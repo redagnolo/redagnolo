@@ -9,19 +9,10 @@
 - Exploring **React, Next.js, TypeScript & PostgreSQL**
 - Interested in **Object-Oriented Programming, System Design & Database Architecture**
 
+
 ### Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css&theme=dark" height="36" alt="Programming Languages" />
-
-**Frameworks & Databases**
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres,mysql&theme=dark" height="36" alt="Frameworks and Databases" />
-
-**Tools & IDEs**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&theme=dark" height="36" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,ts,react,nextjs,tailwind,postgres,mysql,git,github,vscode,idea,pycharm&perline=9&theme=dark" alt="Tech Stack" />
 
 ### GitHub Statistics
 <p align="center">
