@@ -23,10 +23,14 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&theme=dark" height="36" alt="Development Tools" />
 
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redagnolo&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" height="150" alt="GitHub Statistics" />
+
+<a href="https://github.com/redagnolo">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redagnolo&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="100%" alt="GitHub Contribution Activity" />
+</a>
+
 </div>
 
 ### Connect With Me
@@ -40,5 +44,9 @@
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by! Always learning, always building.</sub>
+
+**Thanks for visiting my profile!**
+
+Always learning, always building.
+
 </div>
