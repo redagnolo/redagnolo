@@ -23,15 +23,11 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&theme=dark" height="36" alt="Development Tools" />
 
-### GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/redagnolo">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redagnolo&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="100%" alt="GitHub Contribution Activity" />
-</a>
-
-</div>
+### GitHub Statistics
+<p align="left">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=redagnolo&show_icons=true&title_color=C9D1D9&text_color=C9D1D9&icon_color=8B949E&bg_color=161b22&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=redagnolo&layout=compact&langs_count=6&title_color=C9D1D9&text_color=C9D1D9&icon_color=8B949E&bg_color=161b22&hide_border=true&border_radius=12" alt="Top Languages" />
+</p>
 
 ### Connect With Me
 
