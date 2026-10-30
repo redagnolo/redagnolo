@@ -1,32 +1,44 @@
+
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="60%">
-        <h1>Hi there, I'm Renato! </h1>
-        <a href="https://git.io/typing-svg">     
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C9D1D9&center=false&vCenter=false&width=435&lines=Software+Development+Student;Java+%7C+Python+%7C+Web+Development;Software+Engineering+Enthusiast" alt="Typing SVG" />
-        </a>
-        <br><br>
-        <em>Focused on building software, learning core computing principles, and applying technology to real-world business challenges.</em>
-      </td>
-      <td valign="center" align="center" width="40%">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V0djFrajJmemZueWs1dDRpeHpmbDN0Zjlia3I1d250dDM0MnVreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Od0QRnzwRBYmDU3eEO/giphy.gif" width="280" alt="Hacker Cat GIF" style="border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/header.gif" width="100%" alt="Renato Dagnolo | Software Developer | ADS Student at FIAP" />
 </div>
 
-###  About me
--  Currently developing the **FIAP Challenge solution project** with my team.
--  Focused on **Full-Stack Development, Data Structures, and Software Architecture**.
--  How to reach me: **renato.dagnolo@gmail.com**
+### About Me
 
-###  Technologies & Tools
+- Focused on **Full Stack Development** and Software Engineering
+- Exploring **React, Next.js, TypeScript & PostgreSQL**
+- Interested in **Object-Oriented Programming, System Design & Database Architecture**
+
+### Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css&theme=dark" height="36" alt="Programming Languages" />
+
+**Frameworks & Databases**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres,mysql&theme=dark" height="36" alt="Frameworks and Databases" />
+
+**Tools & IDEs**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&theme=dark" height="36" alt="Development Tools" />
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redagnolo&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" height="150" alt="GitHub Statistics" />
+</div>
+
+### Connect With Me
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,postgres,git,github,vscode,idea" alt="Technologies" />
+  <a href="https://www.linkedin.com/in/redagnolo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:renato.dagnolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+  <a href="https://instagram.com/renatoo.rod"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/redagnolo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/redagnolo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:renato.dagnolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/renatoo.rod" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+---
+
+<div align="center">
+  <sub>Thanks for stopping by! Always learning, always building.</sub>
+</div>
